@@ -10,3 +10,9 @@ target/
 dist/
 build/
 *.log
+# 运行产物
+dim.db
+check.txt
+stats.txt
+__pycache__/
+.pytest_cache/
